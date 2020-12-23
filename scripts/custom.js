@@ -11,12 +11,12 @@ Hooks.once('setup', () => {
     CONFIG.DND5E.damageTypes['vile'] = 'Vile';
     CONFIG.DND5E.damageTypes['arcane'] = 'Arcane';
 
-    CONFIG.DND5E.damageResistances['righteous'] = 'Righteous';
-    CONFIG.DND5E.damageResistances['vile'] = 'Vile';
-    CONFIG.DND5E.damageResistances['arcane'] = 'Arcane';
+    CONFIG.DND5E.damageResistanceTypes['righteous'] = 'Righteous';
+    CONFIG.DND5E.damageResistanceTypes['vile'] = 'Vile';
+    CONFIG.DND5E.damageResistanceTypes['arcane'] = 'Arcane';
 
-    CONFIG.DND5E.damageVulnerabilities['righteous'] = 'Righteous';
-    CONFIG.DND5E.damageVulnerabilities['vile'] = 'Vile';
-    CONFIG.DND5E.damageVulnerabilities['arcane'] = 'Arcane';
+    CONFIG.DND5E.damageVulnerabilityTypes['righteous'] = 'Righteous';
+    CONFIG.DND5E.damageVulnerabilityTypes['vile'] = 'Vile';
+    CONFIG.DND5E.damageVulnerabilityTypes['arcane'] = 'Arcane';
     
     });
