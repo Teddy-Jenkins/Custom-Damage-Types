@@ -1,23 +1,22 @@
 {
-    "name": "combat-enhancements",
-    "title": "Combat Enhancements",
-    "description": "Adds health tracking and drag/drop re-ordering to the combat tracker.",
-    "author": "Asacolips",
-    "version": "0.1.6",
-    "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion": "0.7.9",
-    "esmodules": [
-      "module/combat-enhancements.js"
-    ],
-    "languages": [
-      {
-        "lang": "en",
-        "name": "English",
-        "path": "lang/en.json"
-      }
-    ],
-    "url": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements",
-    "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/raw/master/module.json",
-    "download": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/-/archive/0.1.6/combat-enhancements-master.zip"
-  }
-  
+  "name": "custom-damage-types",
+  "title": "Custom Damage Types",
+  "description": "Adds custom damage types to the vtt.",
+  "author": "Charlie",
+  "version": "0.1",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.9",
+  "esmodules": [
+    "module/scripts/custom.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "https://github.com/Teddy-Jenkins/Custom-Damage-Types",
+  "manifest": "https://github.com/Teddy-Jenkins/Custom-Damage-Types/blob/master/module.json",
+  "download": "https://github.com/Teddy-Jenkins/Custom-Damage-Types.zip"
+}
