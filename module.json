@@ -10,6 +10,12 @@
   "url": "https://github.com/Teddy-Jenkins/Custom-Damage-Types",
   "manifest": "https://raw.githubusercontent.com/Teddy-Jenkins/Custom-Damage-Types/master/module.json",
   "download": "https://github.com/Teddy-Jenkins/Custom-Damage-Types/archive/master.zip",
+  "dependencies": [
+    {
+      "name": "dnd5e",
+      "type": "system"
+    }
+    ],
   "esmodules": [
     "scripts/custom.js"
   ]
